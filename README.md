@@ -19,9 +19,9 @@ An AI-powered, local-friendly resume checker that uses lightweight LLM agents to
 
 | Component        | Tool/Library                |
 |------------------|-----------------------------|
-| LLMs             | Ollama (Gemma 1B)           |
+| LLMs             | Ollama (Gemma3: 1b)         |
 | Agent Framework  | LangChain                   |
-| Resume Parsing   | PDFMiner / PyMuPDF          |
+| Resume Parsing   | PDFMiner                    |
 | DB               | SQLite                      |
 | Embeddings       | Ollama                      |
 | Language         | Python                      |
